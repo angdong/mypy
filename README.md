@@ -1,4 +1,4 @@
 # To execute the program, type:
-```py
+```bash
 python hello.py
 ```
